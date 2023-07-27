@@ -4,3 +4,7 @@ h1 {
 img {
   height: 500px;
 }
+.image-container img {
+  width: 100%;
+  height: auto;
+}
